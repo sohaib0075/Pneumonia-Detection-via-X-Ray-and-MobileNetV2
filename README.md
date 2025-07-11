@@ -1,4 +1,4 @@
-#Optimized CNN Chest X-ray Pneumonia Classifier
+# Optimized CNN Chest X-ray Pneumonia Classifier
 
 This project focuses on detecting pneumonia in chest X-ray images using deep learning and transfer learning with the MobileNetV2 architecture. Pneumonia is a serious lung infection that often requires early diagnosis, and chest radiography is a standard imaging method used by radiologists. The goal of this project is to automate this classification task by building an AI system capable of distinguishing between NORMAL and PNEUMONIA cases.
 
